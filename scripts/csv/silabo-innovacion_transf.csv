@@ -1,0 +1,20 @@
+semana;tema;evaluacion;tipo;peso
+1;Introducción al curso;;;
+1;Conceptos fundamentales;;;
+2;Arquitectura del sistema;;;
+3;Diseño de procesos;;;
+4;Introducción al curso, conceptos fundamentales, arquitectura del sistema y diseño de procesos;Práctica Calificada 1;PC_1;20
+5;Transformación digital;;;
+6;Modelos de innovación;;;
+7;Análisis de casos empresariales;;;
+8;Transformación digital, modelos de innovación y análisis de casos empresariales;Examen Parcial;PARCIAL_EXAM;25
+9;Metodologías ágiles;;;
+10;Automatización de procesos;;;
+11;Análisis de datos;;;
+12;Metodologías ágiles, automatización de procesos y análisis de datos;Práctica Calificada 2;PC_2;25
+13;Inteligencia artificial;;;
+14;Gobierno digital;;;
+15;Seguridad de la información;;;
+16;Presentación de proyectos;;;
+17;Repaso general;;;
+18;Inteligencia artificial, gobierno digital, seguridad de la información, presentación de proyectos y repaso general;Examen Final;FINAL_EXAM;30
